@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\Escritorio\UMG 2021\Programación III\tareauno\tareauno\bin\Debug\tareauno.exe.config
+C:\Users\maria\OneDrive\Escritorio\UMG 2021\Programación III\tareauno\tareauno\bin\Debug\tareauno.exe
+C:\Users\maria\OneDrive\Escritorio\UMG 2021\Programación III\tareauno\tareauno\bin\Debug\tareauno.pdb
+C:\Users\maria\OneDrive\Escritorio\UMG 2021\Programación III\tareauno\tareauno\obj\Debug\tareauno.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\UMG 2021\Programación III\tareauno\tareauno\obj\Debug\tareauno.csproj.ResolveComReference.cache
+C:\Users\maria\OneDrive\Escritorio\UMG 2021\Programación III\tareauno\tareauno\obj\Debug\tareauno.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Escritorio\UMG 2021\Programación III\tareauno\tareauno\obj\Debug\tareauno.exe
+C:\Users\maria\OneDrive\Escritorio\UMG 2021\Programación III\tareauno\tareauno\obj\Debug\tareauno.pdb
